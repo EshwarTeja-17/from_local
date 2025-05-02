@@ -2,4 +2,5 @@
 int main()
 {
     printf("HELLO GIT_HUB");
+    printf("this is feature 1\n");
 }
